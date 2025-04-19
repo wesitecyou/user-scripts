@@ -1,14 +1,15 @@
 // ==UserScript==
-// @name         DeepSeek助手-自动重试-刷新-重新生成回答-DeepSeek-Auto-Refresh
-// @namespace    https://github.com/wesitecyou/user-scripts/deepseek-helper.user.js
+// @name         DeepSeek助手
+// @namespace    https://github.com/wesitecyou/user-scripts
 // @version      2025-04-17
-// @description  动态适配不同错误模式的自动重试
+// @description  动态适配不同错误模式的自动重试，自动重试，重新生成回答
 // @author       wesitecyou
-// @author       XiaoYuanTongXue
 // @match        *://*.deepseek.com/*
 // @icon         https://chat.deepseek.com/favicon.svg
 // @grant        none
 // @license      GPL-3.0
+// @downloadURL  https://github.com/wesitecyou/user-scripts/raw/refs/heads/main/deepseek-helper.user.js
+// @updateURL    https://github.com/wesitecyou/user-scripts/raw/refs/heads/main/deepseek-helper.user.js
 // ==/UserScript==
  
 // 首次重试
